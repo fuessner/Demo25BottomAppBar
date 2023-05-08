@@ -8,7 +8,8 @@ class TabBarDemo extends StatelessWidget {
       "Alle",
       "Freunde",
       "Familie",
-      "Arbeit"
+      "Arbeit",
+      "Privat"
     ];
     final list = List<String>.generate(1337, (index) => '$index');
 
